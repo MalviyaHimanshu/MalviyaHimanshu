@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![memoji](memoji2.gif)
+
 <!--
 **malviyaHimanshu/malviyahimanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
