@@ -46,7 +46,7 @@
             --primary-highlight-color: #7F94FA;
             --secondary-highlight-color: #86FFEC;
 
-            background-color: black;
+            background-color: #0E1117;
           }
         }
 
@@ -59,7 +59,7 @@
 
       <div class="container">
         <h1>
-            <span>Hi there, I'm </span><span class="highlighted">Himanshu</span><span class="hi">👋🏻</span>
+            <span>Hi there, I'm </span><span class="highlighted">Himanshu </span><span class="hi">👋🏻</span>
         </h1>
       </div>
     </div>
