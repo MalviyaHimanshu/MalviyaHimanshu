@@ -7,8 +7,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-dark-new.png">
+  <source media="(prefers-color-scheme: light)" srcset="profile-light-new.png">
   <img alt="banner">
 </picture>
 
