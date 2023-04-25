@@ -1,6 +1,16 @@
+<!--
+
 <div style="width: 100%;">
   <img src="profile.png" style="width: 100%;" alt="">
 </div>
+
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="profile.png">
+  <img alt="banner">
+</picture>
 
 
 
