@@ -12,6 +12,9 @@
   <img alt="banner">
 </picture>
 
+<hr>
+
+![](https://komarev.com/ghpvc/?username=malviyahimanshu&style=plastic&label=Stalker+Alert+👀)
 
 <!--
 ![memoji](memoji2.gif)
