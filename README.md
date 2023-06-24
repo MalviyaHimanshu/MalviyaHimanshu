@@ -14,7 +14,7 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=malviyahimanshu&style=plastic&label=Stalker+Alert+👀)
+![](https://komarev.com/ghpvc/?username=malviyahimanshu&style=plastic&label=Profile+Visits)
 
 <!--
 ![memoji](memoji2.gif)
